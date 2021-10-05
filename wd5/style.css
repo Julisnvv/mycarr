@@ -1,0 +1,56 @@
+body{
+ 	 	font-family: courier , monospace;
+ }
+
+ .container_nachalo{
+	background: url(img/bmw8.jpg) center no-repeat;
+ 	font-family: courier , monospace;
+ 	width: 100%;
+height: 1000px;  
+ -webkit-background-size:cover ;
+background-size:cover;
+display: flex;
+flex-direction: column;
+justify-content: end;
+align-items: center;
+}
+
+.title {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    text-decoration: none;
+    font-family: courier new, monospace;
+height: 15em;
+    position: relative;
+}
+
+
+.container{
+    color: white;
+    background-color: #121212;
+font-size: 24px;
+text-align: center;
+}
+
+.container2{
+   background: url(img/bmw9.jpg) center no-repeat;
+    font-family: courier , monospace;
+    width: 100%;
+height: 1000px;  
+ -webkit-background-size:cover ;
+background-size:cover;
+display: flex;
+flex-direction: column;
+justify-content: end;
+align-items: center;
+}
+
+.container3{
+    color: white;
+    background-color: #121212;
+font-size: 24px;
+text-align: center;
+}
+
+
